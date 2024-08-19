@@ -33,5 +33,5 @@ https://github.com/user-attachments/assets/710c5356-ad11-47d2-b2bc-08f611c5835b
 
 - Mobile Version:
 
-https://github.com/user-attachments/assets/3ff7743c-55f4-40b3-b28d-f2b637aeff29
+https://github.com/user-attachments/assets/8b418dcd-7e48-4c98-a4ea-ce2377c85ac6
 
