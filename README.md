@@ -29,9 +29,9 @@ Special shout-out to @jlmakes for the ScrollReveal script that adds smooth scrol
 
 - Desktop Version:
 
-https://github.com/user-attachments/assets/710c5356-ad11-47d2-b2bc-08f611c5835b
+https://github.com/user-attachments/assets/5c259ad0-5f44-4d26-aaf5-c8efc1068bf5
 
 - Mobile Version:
 
-https://github.com/user-attachments/assets/8b418dcd-7e48-4c98-a4ea-ce2377c85ac6
+https://github.com/user-attachments/assets/c6b48f52-ee21-468a-ab04-543f3311b19c
 
