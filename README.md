@@ -1,4 +1,4 @@
-# Sony Camera Website Concept (responsive)
+# Sony Camera Website Concept (responsive) 
 This project is a minimalist and aesthetic website concept for Sony cameras, 
 designed with a black, white, and light gray color scheme. As a huge fan of Sony cameras 
 (and a proud owner of one), I focused exclusively on showcasing Sony Camera products.  
